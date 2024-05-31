@@ -48,17 +48,17 @@ working with domain experts to extract features from raw data source
 before deployment : setting up metrics to evaluate system performance
 
 # Data Engineer
-## Data ingestion :
+### Data ingestion :
 Collection of data from diffrence source
 
-## Exploration and Validation 
+### Exploration and Validation 
 Understanding data content and struture
 
-## Data Wrangling:
+### Data Wrangling:
 Formatting and Cleaning the data
 
-## Data labeling: 
+### Data labeling: 
 Assiging categrories to data points
 
-## Data Spliting:
+### Data Spliting:
 Division of data into training, validation and test datasets
