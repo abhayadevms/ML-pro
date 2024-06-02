@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ML/ML-pro/mlruns/0/d17febbd2f7b4ff0b8c26ac56cef8246/artifacts
+end_time: 1717333883428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d17febbd2f7b4ff0b8c26ac56cef8246
+run_name: flawless-grub-482
+run_uuid: d17febbd2f7b4ff0b8c26ac56cef8246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717333882791
+status: 3
+tags: []
+user_id: MSA
